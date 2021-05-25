@@ -3,10 +3,10 @@ LOW BUDGET TRELLO:
 
 DONE:
  - !check -- check the availility of a certain name
+ - !history -- get history of people with a certain name
 
 THINGS TO DO:
  - !list -- get the names with a max length
- - !history -- get history of people with a certain name
  - !remind -- set up reminder for when a specific name becomes available
 '''
 
